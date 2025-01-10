@@ -4,4 +4,4 @@ This app combines web scraping and LLM API (Gemini) to summarize text. User can 
 
 Detailed code in flask can be viewed in main.py.
 
-![image](https://github.com/user-attachments/assets/f45f9c39-218e-4470-8682-c88c891815d3)
+![image](https://github.com/user-attachments/assets/b9b7a297-0ef4-477c-8e5d-bd82d69dc6fc)
